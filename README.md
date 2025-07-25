@@ -1,0 +1,2 @@
+# paypay_jihanki_discord
+paypayの自販機bot
